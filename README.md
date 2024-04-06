@@ -1,5 +1,5 @@
 # Ability_Enhancement
-<h3>These are some of the mini projects done related my Ability Enhancements working with  Arduino Uno</h3>
+<h3>These are some of the mini projects done related my Ability Enhancements working with Arduino Uno</h3>
 <br>
 <h5>I have worked on creating mulitple mini projects that have a wide range of applications. I have integrated various sensors like:</h5>
 <br>
